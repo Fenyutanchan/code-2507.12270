@@ -1,13 +1,20 @@
 # Code for arXiv:2507.12270
 
+[![Zeodo](https://img.shields.io/badge/DOI-10.5281/zenodo.18785619-1682d4.svg?logo=zenodo)](https://doi.org/10.5281/zenodo.18785619)
+[![Julia](https://img.shields.io/badge/Language-Julia-9558b2.svg?logo=julia)](https://julialang.org/)
+[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-f37626.svg?logo=jupyter)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg?logo=mit)](LICENSE)
+
 Code maintained by [Quan-feng Wu](https://inspirehep.net/authors/1798236).
 
 ## Paper Information
 
-- arXiv: [arXiv:2507.12270](https://arxiv.org/abs/2507.12270)
-- Inspire-HEP: [2947392](https://inspirehep.net/literature/2947392)
-- DOI: [10.1103/r7bw-jzjl](https://doi.org/10.1103/r7bw-jzjl)
-- Authors: [P. S. Bhupal Dev](https://inspirehep.net/authors/1052537), [Quan-feng Wu](https://inspirehep.net/authors/1798236), [Xun-Jie Xu](https://inspirehep.net/authors/1344110)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.12270%20[hep--ph]-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2507.12270) [![Inspire-HEP](https://img.shields.io/badge/Inspire--HEP-2947392-00e5ff.svg?logo=inspire)](https://inspirehep.net/literature/2947392) [![DOI](https://img.shields.io/badge/DOI-10.1103/r7bw--jzjl-fab70c.svg?logo=doi)](https://doi.org/10.1103/r7bw-jzjl) 
+
+Authors: 
+  1. P. S. Bhupal Dev [![Inspire-HEP](https://img.shields.io/badge/Inspire--HEP-1052537-00e5ff.svg?logo=inspire)](https://inspirehep.net/authors/1052537) [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4655--2866-a6ce38?logo=orcid)](https://orcid.org/0000-0003-4655-2866)
+  2. Quan-feng Wu [![Inspire-HEP](https://img.shields.io/badge/Inspire--HEP-1798236-00e5ff.svg?logo=inspire)](https://inspirehep.net/authors/1798236) [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5716--5266-a6ce38?logo=orcid)](https://orcid.org/0000-0002-5716-5266)
+  3. Xun-Jie Xu [![Inspire-HEP](https://img.shields.io/badge/Inspire--HEP-1344110-00e5ff.svg?logo=inspire)](https://inspirehep.net/authors/1344110) [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3181--1386-a6ce38?logo=orcid)](https://orcid.org/0000-0003-3181-1386)
 
 ## Requirements
 
