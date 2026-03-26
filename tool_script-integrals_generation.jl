@@ -9,7 +9,7 @@ using JLD2
 include("tool_script-directories.jl")
 include("tool_script-geomspace.jl")
 
-f_FD(pₘ, Tₘ) = inv(exp(sqrt(pₘ^2 + 1) / Tₘ) - 1)
+f_FD(pₘ, Tₘ) = inv(exp(sqrt(pₘ^2 + 1) / Tₘ) + 1)
 
 integrand_energy_density_FD(pₘ, Tₘ) = sqrt(pₘ^2 + 1) * pₘ^2 * f_FD(pₘ, Tₘ) / (2 * π^2)
 integrand_number_density_FD(pₘ, Tₘ) = pₘ^2 * f_FD(pₘ, Tₘ) / (2 * π^2)
